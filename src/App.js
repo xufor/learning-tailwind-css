@@ -31,7 +31,7 @@ function App() {
           </div>
           <a
             href="#"
-            className="baseline hidden rounded-full bg-brightRed p-3 px-6 pt-2 text-white hover:bg-brightRedLight md:block"
+            className="baseline hidden rounded-full bg-brightRed p-3 px-6 whitespace-nowrap text-white hover:bg-brightRedLight md:block"
           >
             Get Started
           </a>
@@ -77,7 +77,7 @@ function App() {
             <div className="flex justify-center md:justify-start">
               <a
                 href="#"
-                className="baseline rounded-full bg-brightRed p-3 px-6 pt-2 text-white hover:bg-brightRedLight"
+                className="baseline rounded-full bg-brightRed p-3 px-6 whitespace-nowrap text-white hover:bg-brightRedLight"
               >
                 Get Started
               </a>
@@ -223,7 +223,7 @@ function App() {
           <div className="my-16">
             <a
               href="#"
-              className="baseline rounded-full bg-brightRed p-3 px-6 pt-2 text-white hover:bg-brightRedLight"
+              className="baseline rounded-full bg-brightRed p-3 px-6 whitespace-nowrap text-white hover:bg-brightRedLight"
             >
               Get Started
             </a>
@@ -238,7 +238,7 @@ function App() {
           </h2>
           <a
             href="#"
-            className="baseline hover:bg-grey-300 rounded-full bg-white p-3 px-6 pt-2 text-brightRed shadow-2xl"
+            className="baseline hover:bg-grey-300 rounded-full bg-white p-3 px-6 whitespace-nowrap text-brightRed shadow-2xl"
           >
             Get Started
           </a>
