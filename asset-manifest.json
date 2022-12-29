@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/learning-tailwind-css/static/css/main.bb0c4108.css",
-    "main.js": "/learning-tailwind-css/static/js/main.2366b77a.js",
+    "main.css": "/learning-tailwind-css/static/css/main.caf612c5.css",
+    "main.js": "/learning-tailwind-css/static/js/main.6670bf6e.js",
     "static/js/787.39f9bdfd.chunk.js": "/learning-tailwind-css/static/js/787.39f9bdfd.chunk.js",
     "index.html": "/learning-tailwind-css/index.html",
     "static/media/bg-simplify-section-desktop.svg": "/learning-tailwind-css/static/media/bg-simplify-section-desktop.ca40c1eebd150b1cc7dc.svg",
     "static/media/bg-simplify-section-mobile.svg": "/learning-tailwind-css/static/media/bg-simplify-section-mobile.a79c8471fa284189552d.svg",
     "static/media/bg-tablet-pattern.svg": "/learning-tailwind-css/static/media/bg-tablet-pattern.b6990a984c7bcc142d3e.svg",
-    "main.bb0c4108.css.map": "/learning-tailwind-css/static/css/main.bb0c4108.css.map",
-    "main.2366b77a.js.map": "/learning-tailwind-css/static/js/main.2366b77a.js.map",
+    "main.caf612c5.css.map": "/learning-tailwind-css/static/css/main.caf612c5.css.map",
+    "main.6670bf6e.js.map": "/learning-tailwind-css/static/js/main.6670bf6e.js.map",
     "787.39f9bdfd.chunk.js.map": "/learning-tailwind-css/static/js/787.39f9bdfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb0c4108.css",
-    "static/js/main.2366b77a.js"
+    "static/css/main.caf612c5.css",
+    "static/js/main.6670bf6e.js"
   ]
 }
